@@ -8,11 +8,11 @@ module.exports = {
         "defaults": "./scripts/defaults.js",
         "destructuring": "./scripts/destructuring.js",
         "interpolation": "./scripts/interpolation.js",
-        "iterators": "./scripts/iterators.js",
+        "iterators": "./scripts/for-of.js",
         "scoping": "./scripts/scoping.js",
         "maps": "./scripts/maps.js",
-        "module-loaders": "./scripts/module-loaders.js",
         "modules": "./scripts/modules.js",
+        "module-loaders": "./scripts/module-loaders.js",
         "literals": "./scripts/object-literals.js",
         "promises": "./scripts/promises.js"
     },
